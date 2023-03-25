@@ -1,0 +1,15 @@
+#login{
+    height: 100vh;
+    background-image: url(./images/bgfood.jpg);
+    background-repeat: no-repeat;
+     filter: brightness(90%); 
+    color:black;
+    box-sizing: content-box;
+    background-size:cover;
+    display: grid;
+    justify-content:center;
+    align-items: center
+    
+    
+    
+}

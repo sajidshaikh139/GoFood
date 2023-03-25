@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Libre Baskerville,-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#carousal{
+  max-height: 500px;
+
+}
+#login{
+  height: 100vh;
+  background-image: url(./images/bgfood.jpg);
+  background-repeat: no-repeat;
+   filter: brightness(80%); 
+  color:black;
+  background-size:cover;
+  display: grid;
+  justify-content:center;
+  align-items: center
+}
+#signup{
+  height: 100vh;
+  background-image: url(./images/bgfood.jpg);
+  background-size:cover;
+  filter: brightness(90%); 
+  background-repeat: no-repeat;
+  display:grid;
+  justify-content: center;
+  align-items: center;
+  
+}
+
